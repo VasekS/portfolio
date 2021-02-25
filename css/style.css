@@ -144,6 +144,7 @@ ul {
 .site-btn:hover,
 .site-btn:focus {
 	outline: none;
+	color: #ffff00;
 }
 
 #background-1 {
@@ -485,7 +486,7 @@ ul {
 
 .intro-inner .intro-content h2 {
 	color: #fff;
-	font-size: 100px;
+	font-size: 80px;
 	letter-spacing: -3px;
 	font-weight: bold;
 	margin-top: -135px;
@@ -1277,7 +1278,7 @@ ul {
 		right: 30px;
 	}
 	.intro-inner .intro-content h2 {
-		font-size: 50px;
+		font-size: 45px;
 		margin-right: 100px;
 	}
 	.about-img {
@@ -1317,7 +1318,7 @@ ul {
 		font-size: 30px;
 	}
 	.intro-inner .intro-content h2 {
-		font-size: 35px;
+		font-size: 30px;
 		letter-spacing: 1px;
 		margin-right: 0;
 		margin-top: -95px;

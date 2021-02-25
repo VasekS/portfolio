@@ -78,8 +78,8 @@ $(window).on('load', function() {
   		Typed JS
   	--------------------*/
 	$(".element").typed({
-		strings: ["Vaclav Sekret", "Web Developer"],
-		typeSpeed: 20,
+		strings: ["Vaclav Sekret", "Sofware Engineer", "Dreamer", "Forward - Thinker"],
+		typeSpeed: 18,
 		loop:true,
 		backDelay: 3000
 	});
